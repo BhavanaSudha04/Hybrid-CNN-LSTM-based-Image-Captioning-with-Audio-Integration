@@ -23,6 +23,7 @@ This project implements an AI-based system that generates meaningful captions fo
 ---
 
 ## 📂 Project Structure
+```
 image-captioning-project/
 │
 ├── ImageCaption.py
@@ -33,50 +34,60 @@ image-captioning-project/
 ├── sample/
 │   ├── sample.jpg
 │   └── output.txt
+```
 
 ---
 
 ## ⚙️ Installation
-
-1. Clone the repository:
+```bash
 git clone https://github.com/BhavanaSudha04/your-repo-name.git
-
-2. Install dependencies:
+cd your-repo-name
 pip install -r requirements.txt
+```
 
 ---
 
 ## ▶️ How to Run
-
-Run the project:
+```bash
 python ImageCaption.py
-
-Run text-to-speech:
 python text2speech.py
+```
 
 ---
 
 ## 📊 Dataset
 Dataset is not included due to size limitations.
-
 You can use datasets like:
-- Flickr8k  
-- Flickr30k  
-- MS COCO  
+- Flickr8k
+- Flickr30k
+- MS COCO
 
 ---
 
 ## ⚠️ Note
 Model weights are not included in this repository due to GitHub file size limitations. The model can be trained using the provided code.
+
 ---
 
 ## 📌 Future Enhancements
-- Improve accuracy using attention mechanism  
-- Deploy as web application  
-- Add real-time captioning  
+- Improve accuracy using attention mechanism
+- Deploy as web application
+- Add real-time captioning
 
 ---
 
 ## 👩‍💻 Author
-Bhavana Sudha  
+Bhavana Sudha
 Aspiring AI & ML Developer
+
+---
+
+
+
+
+
+
+
+
+
+
