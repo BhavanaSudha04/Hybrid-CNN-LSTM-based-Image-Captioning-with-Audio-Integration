@@ -67,8 +67,7 @@ You can use datasets like:
 ---
 
 ## ⚠️ Note
-Model weights are not included due to GitHub size limits.
-
+Model weights are not included in this repository due to GitHub file size limitations. The model can be trained using the provided code.
 ---
 
 ## 📌 Future Enhancements
